@@ -1,0 +1,5 @@
+.env
+rag_env/
+__pycache__/
+*.db
+.idea/
