@@ -12,18 +12,20 @@ Bu proje, **Retrieval-Augmented Generation (RAG)** mimarisini kullanarak bu soru
 
 ## 📸 Ekran Görüntüleri
 
-_Kullanıcı Dostu Sohbet Arayüzü ve Doğrudan Bilgi Çekimi:_
-![Sohbet Arayüzü 1](<![s](image-3.png)>)
+**Kullanıcı Dostu Sohbet Arayüzü ve Doğrudan Bilgi Çekimi**
+![Sohbet Arayüzü 1](assets/image.png)
+<br><br>
 
-_Mantıksal Çıkarım ve Halüsinasyon Önleme Testi:_
-![Sohbet Arayüzü 2](![alt text](image-2.png))
+**Mantıksal Çıkarım ve Halüsinasyon Önleme Testi**
+![Sohbet Arayüzü 2](assets/image-1.png)
+<br><br>
 
-_Arama Stratejilerinin (Normal vs MMR) Arka Plan Analizi:_
-![MMR Analizi]
-![alt text](image.png)
+**Arama Stratejilerinin (Normal vs MMR) Arka Plan Analizi**
+![MMR Analizi](assets/image-2.png)
+<br><br>
 
-_Doküman Semantik Vektör Haritası (PCA Uzayı):_
-![Semantik Harita](![alt text](image-1.png))
+**Doküman Semantik Vektör Haritası (PCA Uzayı)**
+![Semantik Harita](assets/image-3.png)
 
 ## 🛠️ Teknolojiler
 
