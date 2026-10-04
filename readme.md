@@ -13,17 +13,16 @@ Bu proje, **Retrieval-Augmented Generation (RAG)** mimarisini kullanarak bu soru
 ## 📸 Ekran Görüntüleri
 
 _Kullanıcı Dostu Sohbet Arayüzü ve Doğrudan Bilgi Çekimi:_
-![Sohbet Arayüzü 1](<![s](image-3.png)>)
+![Sohbet Arayüzü 1](images/image-3.png)
 
 _Mantıksal Çıkarım ve Halüsinasyon Önleme Testi:_
-![Sohbet Arayüzü 2](![alt text](image-2.png))
+![Sohbet Arayüzü 2](images/image-2.png)
 
 _Arama Stratejilerinin (Normal vs MMR) Arka Plan Analizi:_
-![MMR Analizi]
-![alt text](image.png)
+![MMR Analizi](images/image.png)
 
 _Doküman Semantik Vektör Haritası (PCA Uzayı):_
-![Semantik Harita](![alt text](image-1.png))
+![Semantik Harita](images/image-1.png)
 
 ## 🛠️ Teknolojiler
 
@@ -33,7 +32,7 @@ _Doküman Semantik Vektör Haritası (PCA Uzayı):_
 - **Veri Analizi & Görselleştirme:** Scikit-learn (PCA), Pandas, Plotly
 - **Loglama:** SQLite (Trace log mimarisi)
 
-## 🛤️ Yol Haritası (Gelecek Geliştirmeler)
+## 🛤️ Gelecek Geliştirmeler
 
 Bu proje sürekli olarak geliştirilmektedir. İlerleyen güncellemelerde (commit'lerde) eklenecek özellikler:
 
