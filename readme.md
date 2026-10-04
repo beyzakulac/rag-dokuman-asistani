@@ -7,7 +7,7 @@ Bu proje, **Retrieval-Augmented Generation (RAG)** mimarisini kullanarak bu soru
 ## 🚀 Temel Özellikler ve Çözülen Sorunlar
 
 - **Bağlamsal ve Doğrulanabilir Yanıtlar:** Sistem, genel geçer bilgiler uydurmak yerine, doğrudan yüklenen PDF belgesindeki bilgileri çeker ve yanıtın sonuna kaynak sayfayı ekler[cite: 24, 25]. Bilgi belgede yoksa "Sağlanan belgelerde bu bilgi bulunmamaktadır" diyerek güvenilirliği korur[cite: 24].
-- **Arama Stratejisi Kontrolü (Standard vs. MMR):** Kullanıcı ihtiyacına göre arama algoritması değiştirilebilir. "Normal Arama" doğrudan matematiksel benzerliğe odaklanırken; "MMR (Çeşitlilik) Araması", belgenin farklı bölümlerindeki (Örn: Sayfa 1, 3 ve 4) bilgileri toparlayarak geniş açılı özetler sunar. Arka plandaki bu ayrım, şeffaf bir analiz tablosuyla kullanıcıya gösterilir.
+- **Arama Stratejisi Kontrolü (Normal vs. MMR):** Kullanıcı ihtiyacına göre arama algoritması değiştirilebilir. "Normal Arama" doğrudan matematiksel benzerliğe odaklanırken; "MMR (Çeşitlilik) Araması", belgenin farklı bölümlerindeki (Örn: Sayfa 1, 3 ve 4) bilgileri toparlayarak geniş açılı özetler sunar. Arka plandaki bu ayrım, şeffaf bir analiz tablosuyla kullanıcıya gösterilir.
 - **Görsel Semantik Analiz (PCA Uzayı):** Yüklenen belgedeki metin parçalarının (chunk) 384 boyutlu vektörleri, Temel Bileşen Analizi (PCA) ile 2 boyuta düşürülerek görselleştirilir. Bu sayede belgedeki hangi sayfaların anlamsal olarak birbirine yakın olduğu interaktif bir harita üzerinde incelenebilir.
 
 ## 📸 Ekran Görüntüleri
